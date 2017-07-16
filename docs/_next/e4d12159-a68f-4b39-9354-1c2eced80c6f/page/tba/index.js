@@ -1,0 +1,6 @@
+
+          window.__NEXT_REGISTER_PAGE('/tba', function() {
+            var comp = module.exports=webpackJsonp([4],{359:function(e,n,l){e.exports=l(360)},360:function(e,n,l){"use strict";function t(e){return e&&e.__esModule?e:{default:e}}Object.defineProperty(n,"__esModule",{value:!0});var u=l(72),o=t(u),d=l(7),f=t(d),a=l(51),r=t(a),c=l(171),i=t(c),s=l(172),m=t(s),p=(0,o.default)(["\n  // color: red;\n  font-size: 200%;\n"],["\n  // color: red;\n  font-size: 200%;\n"]),x=(0,o.default)(["\n  // color: red;\n  font-size: 90%;\n"],["\n  // color: red;\n  font-size: 90%;\n"]),E=(0,o.default)(["\n  font-weight: bold;\n"],["\n  font-weight: bold;\n"]),b=(0,o.default)(["\n  display:flex;\n  flex-direction: column;\n"],["\n  display:flex;\n  flex-direction: column;\n"]),v=r.default.div(p),h=r.default.div(x),z=r.default.span(E),_=r.default.div(b);n.default=function(){return f.default.createElement(i.default,null,f.default.createElement(m.default,{color:"blue"},f.default.createElement(_,null,f.default.createElement(v,null,f.default.createElement(z,null,"The Cloud Chapter")),f.default.createElement(h,null,"coming soon.."))))}}},[359]);
+            return { page: comp.default }
+          })
+        
