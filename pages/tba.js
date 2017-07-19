@@ -24,7 +24,7 @@ export default () => (
   <Container>
     <Row color="blue">
       <Content>
-        <Title><Bold>The Cloud Chapter</Bold></Title>
+        <Title><Bold>The Cloud Chapter 🚧</Bold></Title>
         <SubTitle>coming soon..</SubTitle>
       </Content>
     </Row>
